@@ -131,5 +131,5 @@ function submitFeedback(){
 // redirect to the home page
 function redirectToForm(){
 
-    window.location.href = './home.html';
+    window.location.href = './index.html';
 }
